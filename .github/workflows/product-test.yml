@@ -1,5 +1,5 @@
 name: Defender CLI Scan
-
+ 
 on:
   push:
     branches: [ main, master ]
